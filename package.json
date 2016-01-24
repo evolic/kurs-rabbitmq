@@ -2,7 +2,7 @@
   "name": "pierwsze-kroki-z-rabbitmq-i-nodejs",
   "version": "0.1.0",
   "description": "Tutorial RabbitMQ dla środowiska node.js",
-  "name" : "Tomasz Kuter",
+  "name" : "kurs-rabbitmq",
   "email" : "kontakt@tomaszkuter.com",
   "dependencies": {
     "amqplib": "^0.4"
