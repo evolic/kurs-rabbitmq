@@ -1,6 +1,6 @@
 {
   "name": "pierwsze-kroki-z-rabbitmq-i-nodejs",
-  "version": "0.5.2",
+  "version": "0.6.0",
   "description": "Tutorial RabbitMQ dla środowiska node.js",
   "name" : "kurs-rabbitmq",
   "email" : "kontakt@tomaszkuter.com",
