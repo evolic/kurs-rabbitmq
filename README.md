@@ -4,9 +4,11 @@ Celem kursu jest zapoznanie się z podstawami korzystania z systemu RabbitMQ wra
 
 Kurs przygotowany na potrzeby artykułu o RabbitMQ do miesięcznika czasopisma [Programista](http://programistamag.pl/).
 
-Kurs zawiera następujące elementy:
+# Elementy kursu
+
 1. Pierwszy program dla środowiska node.js
   * [witamy.js](witamy.js)
+
 2. Przykład pierwszy
   * [nadaj.js](nadaj.js)
   * [odbierz.js](odbierz.js)
