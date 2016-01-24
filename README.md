@@ -6,10 +6,10 @@ Kurs przygotowany na potrzeby artykułu o RabbitMQ do miesięcznika czasopisma [
 
 Kurs zawiera następujące elementy:
 1. Pierwszy program dla środowiska node.js
-  * (witamy.js)
+  * (witamy.js)[witamy.js]
 2. Przykład pierwszy
-  * (nadaj.js)
-  * (odbierz.js)
+  * (nadaj.js)[nadaj.js]
+  * (odbierz.js)[odbierz.js]
 
 Wszystkim zainteresowanym nieniejszymi przykładami życzę wspaniałej podróży po meandrach systemu RabbitMQ :)
 
